@@ -26,7 +26,7 @@ class GetStarted extends StatelessWidget {
                   borderRadius: BorderRadius.all(Radius.circular(10)),
                 ),
                 child: const Center(
-                  child: Text('Get Started'),
+                  child: Text('Started!'),
                 ),
               )
             ],
